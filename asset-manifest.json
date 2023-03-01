@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JohnDoe1902.github.io/react-portfolio/static/css/main.d0bc8279.css",
+    "main.js": "/JohnDoe1902.github.io/react-portfolio/static/js/main.a8f686eb.js",
+    "static/media/person-3.png": "/JohnDoe1902.github.io/react-portfolio/static/media/person-3.5dd0b714cfc8d2673b79.png",
+    "static/media/person-2.png": "/JohnDoe1902.github.io/react-portfolio/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/person-1.png": "/JohnDoe1902.github.io/react-portfolio/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "static/media/brush.png": "/JohnDoe1902.github.io/react-portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/JohnDoe1902.github.io/react-portfolio/index.html",
+    "main.d0bc8279.css.map": "/JohnDoe1902.github.io/react-portfolio/static/css/main.d0bc8279.css.map",
+    "main.a8f686eb.js.map": "/JohnDoe1902.github.io/react-portfolio/static/js/main.a8f686eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0bc8279.css",
+    "static/js/main.a8f686eb.js"
+  ]
+}
